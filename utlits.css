@@ -34,9 +34,11 @@
 .f-w-700{
     font-weight: 700;
 }
+
 .letter-spacing2{
     letter-spacing: 2px;
 }
+
 .btn2{
     width: 140px;
 }
@@ -48,6 +50,7 @@
 .flex3{
     flex: 3;
 }
+
 .my-t-10{
     margin-top: 10px;
 }
@@ -72,3 +75,4 @@
 .pd-30{
     padding: 30px;
 }
+
